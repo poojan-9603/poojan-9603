@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Blockchain 
 - 🌱 I’m currently learning React
 - 📫 How to reach me :
-     Mobile - 7041875274
+     Mobile - +16303809775
      Email - poojan9603@gmail.com
      LinkedIn - https://www.linkedin.com/in/poojan-patel-3539381ba  
 
