@@ -31,9 +31,8 @@ Correctness under pressure over flashy demos — confidence thresholds, honest f
 
 ### 📫 Reach me
 
-- 🌐 Portfolio: *(your deployed site — it's a working RAG assistant, ask it anything)*
+- 🌐 Portfolio: *Coming soon*
 - 💼 LinkedIn: https://www.linkedin.com/in/poojan-patel-3539381ba/
 - ✉️ Email: poojan9603@gmail.com
 - 📱 +1 (630) 380-9775
 
-<sub>Tip: pin RAGDocAI, the Finance Assistant, and CommitLLM so this profile leads with your strongest work.</sub>
